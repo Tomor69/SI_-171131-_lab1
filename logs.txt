@@ -1,0 +1,5 @@
+commit 76587d45b3401496a5f355e3a16675adb11c235f (HEAD -> logs, origin/master, origin/bugFix1, master, bugFix1)
+Author: unknown <Tomor.SHerifi@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:45:50 2019 +0200
+
+    initial commit
